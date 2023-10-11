@@ -1,0 +1,8 @@
+com\mycompany\factorymethod\ProdutoController2.class
+com\mycompany\factorymethod\hamburguerVegano\VeganController.class
+com\mycompany\factorymethod\ProdutoController.class
+com\mycompany\factorymethod\FactoryMethod.class
+com\mycompany\factorymethod\hamburguerAngus\Controller.class
+com\mycompany\factorymethod\hamburguerAngus\ViewEngine.class
+com\mycompany\factorymethod\hamburguerAngus\AngusViewEngine.class
+com\mycompany\factorymethod\hamburguerVegano\VeganViewEngine.class

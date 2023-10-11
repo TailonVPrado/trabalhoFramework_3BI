@@ -1,0 +1,6 @@
+com\mycompany\observed\DataSource.class
+com\mycompany\observed\Observed.class
+com\mycompany\observed\Observer.class
+com\mycompany\observed\StockListView.class
+com\mycompany\observed\Subject.class
+com\mycompany\observed\StatusBar.class

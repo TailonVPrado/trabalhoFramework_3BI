@@ -1,0 +1,7 @@
+com\mycompany\paymentpattern\CreditCardPaymentForm.class
+com\mycompany\paymentpattern\PaymentForm.class
+com\mycompany\paymentpattern\PaymentPattern.class
+com\mycompany\paymentpattern\MoneyPaymentForm.class
+com\mycompany\paymentpattern\PayPalPaymentForm.class
+com\mycompany\paymentpattern\BitCoinPaymentForm.class
+com\mycompany\paymentpattern\Payment.class

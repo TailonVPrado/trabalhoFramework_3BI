@@ -1,0 +1,8 @@
+com\mycompany\abstractfactory\Main.class
+Product.class
+com\mycompany\abstractfactory\CompositeBox.class
+com\mycompany\abstractfactory\product\Juice.class
+com\mycompany\abstractfactory\product\Product.class
+com\mycompany\abstractfactory\Box.class
+com\mycompany\abstractfactory\DeliveryService.class
+com\mycompany\abstractfactory\product\Toxies.class
